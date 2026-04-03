@@ -42,7 +42,7 @@
 
 ## Result:
 
-![Image]()
+![Image](https://github.com/pritomsarma/ECGsimulation/blob/b1d1911be2b880b5553d84af361728f1d765c8b2/simulatedecgsignals_.png)
 
 
 ## Applications:
