@@ -1,21 +1,22 @@
-#ECG Signal Simulation using MATLAB
+ECG Signal Simulation using MATLAB:
 
-##Overview
+Overview:
 
-This project focuses on the simulation of an Electrocardiogram (ECG) signal using MATLAB. The ECG signal represents the electrical activity of the heart and is widely used in biomedical signal processing for monitoring and diagnosis.
+-This project focuses on the simulation of an Electrocardiogram (ECG) signal using MATLAB. The ECG signal represents the electrical activity of the heart and is widely used in biomedical signal processing for monitoring and diagnosis.
 
-The objective of this project is to generate a synthetic ECG waveform that mimics real cardiac signals and analyze its key components such as P wave, QRS complex, and T wave.
+-The objective of this project is to generate a synthetic ECG waveform that mimics real cardiac signals and analyze its key components such as P wave, QRS complex, and T wave.
 
-##Objectives
+Objectives:
 
-To understand the fundamentals of ECG signal generation
-To simulate ECG waveforms using MATLAB
-To analyze different components of the ECG signal
-To visualize heart signal patterns for study and research
+-To understand the fundamentals of ECG signal generation
+-To simulate ECG waveforms using MATLAB
+-To analyze different components of the ECG signal
+-To visualize heart signal patterns for study and research
 
-##Tools & Technologies
+Tools & Technologies:
 
-###MATLAB
+MATLAB:
+
 -Signal Processing Techniques
 -Features
 -Generation of synthetic ECG waveform
@@ -23,7 +24,8 @@ To visualize heart signal patterns for study and research
 -Identification of key waveform components (P, QRS, T)
 -Adjustable parameters for heart rate and signal characteristics
 
-##Concept Behind the Project
+Concept Behind the Project:
+
 -An ECG signal consists of repeating waveforms that correspond to different stages of cardiac activity:
 -P wave → Atrial depolarization
 -QRS complex → Ventricular depolarization
@@ -31,28 +33,29 @@ To visualize heart signal patterns for study and research
 
 -This project uses mathematical modeling and signal processing techniques to recreate these patterns digitally in MATLAB.
 
-##How to Run
+How to use this code:
 
 -Open MATLAB
 -Load the project files
 -Run the main script (e.g., ecg_simulation.m)
 -Observe the generated ECG waveform
 
-##Result
+Result:
+![image alt](https://github.com/pritomsarma/ECGsimulation/blob/948beba0623b00869522a78c4b1f2f51e3201fdc/realtimeecgsimulation.png)
 
 
-##Applications
+Applications:
 
 -Biomedical signal analysis
 -Medical research and education
 -ECG data simulation for testing algorithms
 -Foundation for real-time health monitoring systems
 
-##Future Improvements
+Future Improvements:
 
 -Add real-time ECG data acquisition
 -Implement noise filtering techniques
 -Integrate machine learning for abnormality detection
 
 
-##[Pritom Sarma]
+[Pritom Sarma]
